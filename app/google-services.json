@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89069244895",
+    "project_id": "age-in-hours",
+    "storage_bucket": "age-in-hours.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89069244895:android:27827806b8674b6295f46a",
+        "android_client_info": {
+          "package_name": "ra.tutorial.dateofbirthcalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89069244895-h3lc7e0uk87o2r094l04so53dtdfetne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXFVWO8OEFrhvZH-Bj6DoEqM_n4PiQOrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89069244895-h3lc7e0uk87o2r094l04so53dtdfetne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
